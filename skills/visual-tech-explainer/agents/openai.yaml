@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Tech Explainer"
+  short_description: "Turn complex technology into visual explanations"
+  default_prompt: "Explain this technology as a clear, visual, self-contained interactive presentation."
