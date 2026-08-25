@@ -4,6 +4,10 @@ A collection of portable Agent Skills for Codex, Claude, Cursor, and other compa
 
 ## Available skills
 
+### `pii-directory-opt-out`
+
+Finds the user's personal listings on people-search, contact-directory, and data-broker websites and guides cautious, trackable opt-outs while preserving legitimate online accounts.
+
 ### `visual-tech-explainer`
 
 Turns complex technology concepts into clear, self-contained visual explanations with bento-box layouts, diagrams, timelines, and progressive disclosure.

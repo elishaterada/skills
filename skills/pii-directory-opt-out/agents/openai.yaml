@@ -1,0 +1,4 @@
+interface:
+  display_name: "PII Directory Opt-Out"
+  short_description: "Remove your details from people-search sites"
+  default_prompt: "Use $pii-directory-opt-out to find my listings on contact-directory sites and help me opt out while preserving legitimate accounts."
