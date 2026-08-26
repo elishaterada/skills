@@ -1,0 +1,4 @@
+interface:
+  display_name: "Naming & Domain Strategy"
+  short_description: "Find, screen, and select ownable brand names"
+  default_prompt: "Use $naming-domain-strategy to develop and screen names and domains for my business or product."

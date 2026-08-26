@@ -4,6 +4,10 @@ A collection of portable Agent Skills for Codex, Claude, Cursor, and other compa
 
 ## Available skills
 
+### `naming-domain-strategy`
+
+Generates, evaluates, screens, and selects commercially ownable names and domains for products, umbrella companies, and internal experiments.
+
 ### `pii-directory-opt-out`
 
 Finds the user's personal listings on people-search, contact-directory, and data-broker websites and guides cautious, trackable opt-outs while preserving legitimate online accounts.
