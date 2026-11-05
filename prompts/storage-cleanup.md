@@ -4,7 +4,7 @@ Help me reclaim useful space on my computer while keeping my personal files, his
 
 ## Inspect first
 
-Determine my operating system and whether you can inspect local files. If you cannot, say so and guide me through a small number of targeted read-only steps or ask for a relevant storage screenshot. Do not claim access you lack. Ask only for missing information that affects the cleanup, such as which drive is full or which apps I no longer use.
+Determine my operating system and whether you can inspect local files. If you cannot, say so and guide me through the operating system’s storage screens, a small number of targeted read-only steps, or a relevant storage screenshot. A local shell is not required; use app controls or user-supplied, targeted manual output where appropriate. Ask me to redact private details and never request an entire private file inventory. Do not claim access you lack. Ask only for missing information that affects the cleanup, such as which drive is full or which apps I no longer use.
 
 Measure available space on the affected drive. Start with the largest relevant folders, then drill into the few most promising ones. Do not dump my whole file tree, upload my inventory or scan unrelated drives. Report inaccessible areas instead of treating them as empty.
 
@@ -24,7 +24,7 @@ Preserve my documents, photos, source media, messages, mail, passwords, sign-ins
 
 If uncertain files may contain unique work, prepare a private recovery copy outside the target. Verify its contents against the originals and test recovery before removing the live files. Include all needed files and links, not just a patch that omits private inputs. Tell me where the copy is and how to restore it. Count its space against the savings, and do not call a local copy an off-device backup.
 
-If I use developer tools, also distinguish tracked project files, Git history, ignored inputs, dependencies, old builds and tool downloads. Keep original assets, secrets, local databases, container volumes and unfinished work. Discover worktrees through Git and check branches, uncommitted/ignored files, detached commits and active chats before retiring any. Do not merge code, rewrite history, push or delete branch refs as a side effect of cleanup. Keep browser/runtime versions that other active tools need.
+If I use developer tools, also distinguish tracked project files, Git history, ignored inputs, dependencies, old builds and tool downloads. Keep original assets, secrets, local databases, container volumes, VM session data and unfinished work. Discover worktrees through Git and check branches, uncommitted/ignored files, detached commits and active chats before retiring any. Do not merge code, rewrite history, push or delete branch refs as a side effect of cleanup. Keep browser/runtime versions that other active tools need.
 
 Work in small approved groups. Inspect partial failures and resume safely without broadening the deletion. Do not empty Trash or remove the only recovery copy unless I separately approve that consequence.
 
