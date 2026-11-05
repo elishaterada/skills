@@ -16,6 +16,18 @@ Finds the user's personal listings on people-search, contact-directory, and data
 
 Turns complex technology concepts into clear, self-contained visual explanations with bento-box layouts, diagrams, timelines, and progressive disclosure.
 
+### `storage-cleanup`
+
+Inspects disk usage and cleans approved apps, caches, downloads and duplicates while preserving personal data, app state and recovery options.
+
+### `developer-storage-cleanup`
+
+Targets developer-machine storage, including build output, Git worktrees, SDKs, testing browsers, containers and local VMs, with unfinished-work preservation.
+
+## Use without skills
+
+Copy [the standalone storage cleanup prompt](prompts/storage-cleanup.md) into your own personal agent. It includes the workflow and safety boundaries and requires no skills, plugins or paid cleaner. Agents without local access can guide a targeted manual inspection. Both storage skills are also independent; neither requires the other or an external workflow framework.
+
 ## Use a skill
 
 Each directory under `skills/` is an independent skill. Install or link the directory into the location your AI tool uses for Agent Skills. You can also point an agent directly to its `SKILL.md` file.

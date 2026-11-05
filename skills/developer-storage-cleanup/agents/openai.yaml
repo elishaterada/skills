@@ -1,0 +1,4 @@
+interface:
+  display_name: "Developer Storage Cleanup"
+  short_description: "Clean build caches, worktrees, SDKs and local VMs"
+  default_prompt: "Use $developer-storage-cleanup to reclaim developer-machine storage while keeping unfinished work and recovery data safe."

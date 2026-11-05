@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storage Cleanup"
+  short_description: "Free disk space while preserving personal data"
+  default_prompt: "Use $storage-cleanup to inspect my storage and clean up approved items while preserving my files and history."
